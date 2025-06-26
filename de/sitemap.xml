@@ -3,63 +3,48 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://mis3085.github.io/docs-aceretech/de/applications-9/abs-ps-recycling-242/</loc>
+    <loc>https://mis3085.github.io/docs-aceretech/de/applications-9/plant-layout/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://mis3085.github.io/docs-aceretech/en/applications-9/abs-ps-recycling-242/"
+      href="https://mis3085.github.io/docs-aceretech/en/applications-9/plant-layout/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="https://mis3085.github.io/docs-aceretech/es/applications-9/abs-ps-recycling-242/"
+      href="https://mis3085.github.io/docs-aceretech/es/applications-9/plant-layout/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="https://mis3085.github.io/docs-aceretech/fr/applications-9/abs-ps-recycling-242/"
+      href="https://mis3085.github.io/docs-aceretech/fr/applications-9/plant-layout/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://mis3085.github.io/docs-aceretech/it/applications-9/abs-ps-recycling-242/"
+      href="https://mis3085.github.io/docs-aceretech/it/applications-9/plant-layout/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt"
-      href="https://mis3085.github.io/docs-aceretech/pt/applications-9/abs-ps-recycling-242/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://mis3085.github.io/docs-aceretech/ru/applications-9/abs-ps-recycling-242/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="hi"
-      href="https://mis3085.github.io/docs-aceretech/hi/applications-9/abs-ps-recycling-242/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ko"
-      href="https://mis3085.github.io/docs-aceretech/ko/applications-9/abs-ps-recycling-242/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="https://mis3085.github.io/docs-aceretech/ja/applications-9/abs-ps-recycling-242/"
+      href="https://mis3085.github.io/docs-aceretech/pt/applications-9/plant-layout/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ar"
-      href="https://mis3085.github.io/docs-aceretech/ar/applications-9/abs-ps-recycling-242/"
+      href="https://mis3085.github.io/docs-aceretech/ar/applications-9/plant-layout/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ja"
+      href="https://mis3085.github.io/docs-aceretech/ja/applications-9/plant-layout/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="de"
-      href="https://mis3085.github.io/docs-aceretech/de/applications-9/abs-ps-recycling-242/"
+      href="https://mis3085.github.io/docs-aceretech/de/applications-9/plant-layout/"
     />
   </url>
   <url>
@@ -93,18 +78,8 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ru"
-      href="https://mis3085.github.io/docs-aceretech/ru/applications-9/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="ar"
       href="https://mis3085.github.io/docs-aceretech/ar/applications-9/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="hi"
-      href="https://mis3085.github.io/docs-aceretech/hi/applications-9/"
     />
     <xhtml:link
       rel="alternate"
@@ -153,18 +128,8 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ru"
-      href="https://mis3085.github.io/docs-aceretech/ru/company-profile/overseas-service-center/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="ar"
       href="https://mis3085.github.io/docs-aceretech/ar/company-profile/overseas-service-center/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="hi"
-      href="https://mis3085.github.io/docs-aceretech/hi/company-profile/overseas-service-center/"
     />
     <xhtml:link
       rel="alternate"
@@ -173,133 +138,98 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ko"
-      href="https://mis3085.github.io/docs-aceretech/ko/company-profile/overseas-service-center/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="de"
       href="https://mis3085.github.io/docs-aceretech/de/company-profile/overseas-service-center/"
     />
   </url>
   <url>
-    <loc>https://mis3085.github.io/docs-aceretech/de/applications-9/epe-pearl-cotton-recycling-252/</loc>
+    <loc>https://mis3085.github.io/docs-aceretech/de/e-catalog/2/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://mis3085.github.io/docs-aceretech/en/applications-9/epe-pearl-cotton-recycling-252/"
+      href="https://mis3085.github.io/docs-aceretech/en/e-catalog/2/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="https://mis3085.github.io/docs-aceretech/es/applications-9/epe-pearl-cotton-recycling-252/"
+      href="https://mis3085.github.io/docs-aceretech/es/e-catalog/2/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="https://mis3085.github.io/docs-aceretech/fr/applications-9/epe-pearl-cotton-recycling-252/"
+      href="https://mis3085.github.io/docs-aceretech/fr/e-catalog/2/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://mis3085.github.io/docs-aceretech/it/applications-9/epe-pearl-cotton-recycling-252/"
+      href="https://mis3085.github.io/docs-aceretech/it/e-catalog/2/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt"
-      href="https://mis3085.github.io/docs-aceretech/pt/applications-9/epe-pearl-cotton-recycling-252/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://mis3085.github.io/docs-aceretech/ru/applications-9/epe-pearl-cotton-recycling-252/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="hi"
-      href="https://mis3085.github.io/docs-aceretech/hi/applications-9/epe-pearl-cotton-recycling-252/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ko"
-      href="https://mis3085.github.io/docs-aceretech/ko/applications-9/epe-pearl-cotton-recycling-252/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="https://mis3085.github.io/docs-aceretech/ja/applications-9/epe-pearl-cotton-recycling-252/"
+      href="https://mis3085.github.io/docs-aceretech/pt/e-catalog/2/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ar"
-      href="https://mis3085.github.io/docs-aceretech/ar/applications-9/epe-pearl-cotton-recycling-252/"
+      href="https://mis3085.github.io/docs-aceretech/ar/e-catalog/2/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ja"
+      href="https://mis3085.github.io/docs-aceretech/ja/e-catalog/2/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="de"
-      href="https://mis3085.github.io/docs-aceretech/de/applications-9/epe-pearl-cotton-recycling-252/"
+      href="https://mis3085.github.io/docs-aceretech/de/e-catalog/2/"
     />
   </url>
   <url>
-    <loc>https://mis3085.github.io/docs-aceretech/de/applications-9/eps-recycling-254/</loc>
+    <loc>https://mis3085.github.io/docs-aceretech/de/e-catalog/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://mis3085.github.io/docs-aceretech/en/applications-9/eps-recycling-254/"
+      href="https://mis3085.github.io/docs-aceretech/en/e-catalog/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="https://mis3085.github.io/docs-aceretech/es/applications-9/eps-recycling-254/"
+      href="https://mis3085.github.io/docs-aceretech/es/e-catalog/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="https://mis3085.github.io/docs-aceretech/fr/applications-9/eps-recycling-254/"
+      href="https://mis3085.github.io/docs-aceretech/fr/e-catalog/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://mis3085.github.io/docs-aceretech/it/applications-9/eps-recycling-254/"
+      href="https://mis3085.github.io/docs-aceretech/it/e-catalog/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt"
-      href="https://mis3085.github.io/docs-aceretech/pt/applications-9/eps-recycling-254/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://mis3085.github.io/docs-aceretech/ru/applications-9/eps-recycling-254/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="hi"
-      href="https://mis3085.github.io/docs-aceretech/hi/applications-9/eps-recycling-254/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ko"
-      href="https://mis3085.github.io/docs-aceretech/ko/applications-9/eps-recycling-254/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="https://mis3085.github.io/docs-aceretech/ja/applications-9/eps-recycling-254/"
+      href="https://mis3085.github.io/docs-aceretech/pt/e-catalog/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ar"
-      href="https://mis3085.github.io/docs-aceretech/ar/applications-9/eps-recycling-254/"
+      href="https://mis3085.github.io/docs-aceretech/ar/e-catalog/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ja"
+      href="https://mis3085.github.io/docs-aceretech/ja/e-catalog/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="de"
-      href="https://mis3085.github.io/docs-aceretech/de/applications-9/eps-recycling-254/"
+      href="https://mis3085.github.io/docs-aceretech/de/e-catalog/"
     />
   </url>
   <url>
@@ -333,23 +263,8 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ru"
-      href="https://mis3085.github.io/docs-aceretech/ru/company-profile/esg/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="hi"
-      href="https://mis3085.github.io/docs-aceretech/hi/company-profile/esg/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="ja"
       href="https://mis3085.github.io/docs-aceretech/ja/company-profile/esg/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ko"
-      href="https://mis3085.github.io/docs-aceretech/ko/company-profile/esg/"
     />
     <xhtml:link
       rel="alternate"
@@ -363,63 +278,48 @@
     />
   </url>
   <url>
-    <loc>https://mis3085.github.io/docs-aceretech/de/applications-9/hdpe-pp-flake-recycling-257/</loc>
+    <loc>https://mis3085.github.io/docs-aceretech/de/e-catalog/faqs/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://mis3085.github.io/docs-aceretech/en/applications-9/hdpe-pp-flake-recycling-257/"
+      href="https://mis3085.github.io/docs-aceretech/en/e-catalog/faqs/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="https://mis3085.github.io/docs-aceretech/es/applications-9/hdpe-pp-flake-recycling-257/"
+      href="https://mis3085.github.io/docs-aceretech/es/e-catalog/faqs/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="https://mis3085.github.io/docs-aceretech/fr/applications-9/hdpe-pp-flake-recycling-257/"
+      href="https://mis3085.github.io/docs-aceretech/fr/e-catalog/faqs/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://mis3085.github.io/docs-aceretech/it/applications-9/hdpe-pp-flake-recycling-257/"
+      href="https://mis3085.github.io/docs-aceretech/it/e-catalog/faqs/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt"
-      href="https://mis3085.github.io/docs-aceretech/pt/applications-9/hdpe-pp-flake-recycling-257/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://mis3085.github.io/docs-aceretech/ru/applications-9/hdpe-pp-flake-recycling-257/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="hi"
-      href="https://mis3085.github.io/docs-aceretech/hi/applications-9/hdpe-pp-flake-recycling-257/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ko"
-      href="https://mis3085.github.io/docs-aceretech/ko/applications-9/hdpe-pp-flake-recycling-257/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="https://mis3085.github.io/docs-aceretech/ja/applications-9/hdpe-pp-flake-recycling-257/"
+      href="https://mis3085.github.io/docs-aceretech/pt/e-catalog/faqs/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ar"
-      href="https://mis3085.github.io/docs-aceretech/ar/applications-9/hdpe-pp-flake-recycling-257/"
+      href="https://mis3085.github.io/docs-aceretech/ar/e-catalog/faqs/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ja"
+      href="https://mis3085.github.io/docs-aceretech/ja/e-catalog/faqs/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="de"
-      href="https://mis3085.github.io/docs-aceretech/de/applications-9/hdpe-pp-flake-recycling-257/"
+      href="https://mis3085.github.io/docs-aceretech/de/e-catalog/faqs/"
     />
   </url>
   <url>
@@ -453,18 +353,8 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ru"
-      href="https://mis3085.github.io/docs-aceretech/ru/shop/auxiliary-machine-for-plastic-recycling-10/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="ar"
       href="https://mis3085.github.io/docs-aceretech/ar/shop/auxiliary-machine-for-plastic-recycling-10/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="hi"
-      href="https://mis3085.github.io/docs-aceretech/hi/shop/auxiliary-machine-for-plastic-recycling-10/"
     />
     <xhtml:link
       rel="alternate"
@@ -473,13 +363,58 @@
     />
     <xhtml:link
       rel="alternate"
+      hreflang="de"
+      href="https://mis3085.github.io/docs-aceretech/de/shop/auxiliary-machine-for-plastic-recycling-10/"
+    />
+  </url>
+  <url>
+    <loc>https://mis3085.github.io/docs-aceretech/de/applications-9/custom-process/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://mis3085.github.io/docs-aceretech/en/applications-9/custom-process/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="https://mis3085.github.io/docs-aceretech/es/applications-9/custom-process/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="https://mis3085.github.io/docs-aceretech/fr/applications-9/custom-process/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="it"
+      href="https://mis3085.github.io/docs-aceretech/it/applications-9/custom-process/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="pt"
+      href="https://mis3085.github.io/docs-aceretech/pt/applications-9/custom-process/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ar"
+      href="https://mis3085.github.io/docs-aceretech/ar/applications-9/custom-process/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ja"
+      href="https://mis3085.github.io/docs-aceretech/ja/applications-9/custom-process/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="ko"
-      href="https://mis3085.github.io/docs-aceretech/ko/shop/auxiliary-machine-for-plastic-recycling-10/"
+      href="https://mis3085.github.io/docs-aceretech/ko/applications-9/custom-process/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="de"
-      href="https://mis3085.github.io/docs-aceretech/de/shop/auxiliary-machine-for-plastic-recycling-10/"
+      href="https://mis3085.github.io/docs-aceretech/de/applications-9/custom-process/"
     />
   </url>
   <url>
@@ -513,18 +448,8 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ru"
-      href="https://mis3085.github.io/docs-aceretech/ru/contactus/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="ar"
       href="https://mis3085.github.io/docs-aceretech/ar/contactus/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="hi"
-      href="https://mis3085.github.io/docs-aceretech/hi/contactus/"
     />
     <xhtml:link
       rel="alternate"
@@ -540,6 +465,56 @@
       rel="alternate"
       hreflang="de"
       href="https://mis3085.github.io/docs-aceretech/de/contactus/"
+    />
+  </url>
+  <url>
+    <loc>https://mis3085.github.io/docs-aceretech/de/applications-9/customer-achievements-7/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://mis3085.github.io/docs-aceretech/en/applications-9/customer-achievements-7/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="https://mis3085.github.io/docs-aceretech/es/applications-9/customer-achievements-7/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="https://mis3085.github.io/docs-aceretech/fr/applications-9/customer-achievements-7/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="it"
+      href="https://mis3085.github.io/docs-aceretech/it/applications-9/customer-achievements-7/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="pt"
+      href="https://mis3085.github.io/docs-aceretech/pt/applications-9/customer-achievements-7/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ar"
+      href="https://mis3085.github.io/docs-aceretech/ar/applications-9/customer-achievements-7/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ja"
+      href="https://mis3085.github.io/docs-aceretech/ja/applications-9/customer-achievements-7/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ko"
+      href="https://mis3085.github.io/docs-aceretech/ko/applications-9/customer-achievements-7/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de"
+      href="https://mis3085.github.io/docs-aceretech/de/applications-9/customer-achievements-7/"
     />
   </url>
   <url>
@@ -578,13 +553,13 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ar"
-      href="https://mis3085.github.io/docs-aceretech/ar/"
+      hreflang="hi"
+      href="https://mis3085.github.io/docs-aceretech/hi/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="hi"
-      href="https://mis3085.github.io/docs-aceretech/hi/"
+      hreflang="ar"
+      href="https://mis3085.github.io/docs-aceretech/ar/"
     />
     <xhtml:link
       rel="alternate"
@@ -633,21 +608,6 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ru"
-      href="https://mis3085.github.io/docs-aceretech/ru/shop/pet-recycling-line-7/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="hi"
-      href="https://mis3085.github.io/docs-aceretech/hi/shop/pet-recycling-line-7/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ko"
-      href="https://mis3085.github.io/docs-aceretech/ko/shop/pet-recycling-line-7/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="ja"
       href="https://mis3085.github.io/docs-aceretech/ja/shop/pet-recycling-line-7/"
     />
@@ -693,28 +653,13 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ru"
-      href="https://mis3085.github.io/docs-aceretech/ru/shop/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="ar"
       href="https://mis3085.github.io/docs-aceretech/ar/shop/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="hi"
-      href="https://mis3085.github.io/docs-aceretech/hi/shop/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="ja"
       href="https://mis3085.github.io/docs-aceretech/ja/shop/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ko"
-      href="https://mis3085.github.io/docs-aceretech/ko/shop/"
     />
     <xhtml:link
       rel="alternate"
@@ -753,18 +698,8 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ru"
-      href="https://mis3085.github.io/docs-aceretech/ru/company-profile/quality-advantages/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="ar"
       href="https://mis3085.github.io/docs-aceretech/ar/company-profile/quality-advantages/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="hi"
-      href="https://mis3085.github.io/docs-aceretech/hi/company-profile/quality-advantages/"
     />
     <xhtml:link
       rel="alternate"
@@ -773,253 +708,8 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ko"
-      href="https://mis3085.github.io/docs-aceretech/ko/company-profile/quality-advantages/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="de"
       href="https://mis3085.github.io/docs-aceretech/de/company-profile/quality-advantages/"
-    />
-  </url>
-  <url>
-    <loc>https://mis3085.github.io/docs-aceretech/de/applications-9/washed-ldpe-film-recycling-278/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://mis3085.github.io/docs-aceretech/en/applications-9/washed-ldpe-film-recycling-278/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="https://mis3085.github.io/docs-aceretech/es/applications-9/washed-ldpe-film-recycling-278/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="fr"
-      href="https://mis3085.github.io/docs-aceretech/fr/applications-9/washed-ldpe-film-recycling-278/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="it"
-      href="https://mis3085.github.io/docs-aceretech/it/applications-9/washed-ldpe-film-recycling-278/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="pt"
-      href="https://mis3085.github.io/docs-aceretech/pt/applications-9/washed-ldpe-film-recycling-278/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://mis3085.github.io/docs-aceretech/ru/applications-9/washed-ldpe-film-recycling-278/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ar"
-      href="https://mis3085.github.io/docs-aceretech/ar/applications-9/washed-ldpe-film-recycling-278/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="hi"
-      href="https://mis3085.github.io/docs-aceretech/hi/applications-9/washed-ldpe-film-recycling-278/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="https://mis3085.github.io/docs-aceretech/ja/applications-9/washed-ldpe-film-recycling-278/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ko"
-      href="https://mis3085.github.io/docs-aceretech/ko/applications-9/washed-ldpe-film-recycling-278/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="de"
-      href="https://mis3085.github.io/docs-aceretech/de/applications-9/washed-ldpe-film-recycling-278/"
-    />
-  </url>
-  <url>
-    <loc>https://mis3085.github.io/docs-aceretech/de/applications-9/pa-nylon-film-262/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://mis3085.github.io/docs-aceretech/en/applications-9/pa-nylon-film-262/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="https://mis3085.github.io/docs-aceretech/es/applications-9/pa-nylon-film-262/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="fr"
-      href="https://mis3085.github.io/docs-aceretech/fr/applications-9/pa-nylon-film-262/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="it"
-      href="https://mis3085.github.io/docs-aceretech/it/applications-9/pa-nylon-film-262/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="pt"
-      href="https://mis3085.github.io/docs-aceretech/pt/applications-9/pa-nylon-film-262/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://mis3085.github.io/docs-aceretech/ru/applications-9/pa-nylon-film-262/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="hi"
-      href="https://mis3085.github.io/docs-aceretech/hi/applications-9/pa-nylon-film-262/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ko"
-      href="https://mis3085.github.io/docs-aceretech/ko/applications-9/pa-nylon-film-262/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="https://mis3085.github.io/docs-aceretech/ja/applications-9/pa-nylon-film-262/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ar"
-      href="https://mis3085.github.io/docs-aceretech/ar/applications-9/pa-nylon-film-262/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="de"
-      href="https://mis3085.github.io/docs-aceretech/de/applications-9/pa-nylon-film-262/"
-    />
-  </url>
-  <url>
-    <loc>https://mis3085.github.io/docs-aceretech/de/applications-9/pp-woven-bag-recycling-243/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://mis3085.github.io/docs-aceretech/en/applications-9/pp-woven-bag-recycling-243/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="https://mis3085.github.io/docs-aceretech/es/applications-9/pp-woven-bag-recycling-243/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="fr"
-      href="https://mis3085.github.io/docs-aceretech/fr/applications-9/pp-woven-bag-recycling-243/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="it"
-      href="https://mis3085.github.io/docs-aceretech/it/applications-9/pp-woven-bag-recycling-243/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="pt"
-      href="https://mis3085.github.io/docs-aceretech/pt/applications-9/pp-woven-bag-recycling-243/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://mis3085.github.io/docs-aceretech/ru/applications-9/pp-woven-bag-recycling-243/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ar"
-      href="https://mis3085.github.io/docs-aceretech/ar/applications-9/pp-woven-bag-recycling-243/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="hi"
-      href="https://mis3085.github.io/docs-aceretech/hi/applications-9/pp-woven-bag-recycling-243/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="https://mis3085.github.io/docs-aceretech/ja/applications-9/pp-woven-bag-recycling-243/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ko"
-      href="https://mis3085.github.io/docs-aceretech/ko/applications-9/pp-woven-bag-recycling-243/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="de"
-      href="https://mis3085.github.io/docs-aceretech/de/applications-9/pp-woven-bag-recycling-243/"
-    />
-  </url>
-  <url>
-    <loc>https://mis3085.github.io/docs-aceretech/de/applications-9/crushed-pet-film-248/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://mis3085.github.io/docs-aceretech/en/applications-9/crushed-pet-film-248/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="https://mis3085.github.io/docs-aceretech/es/applications-9/crushed-pet-film-248/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="fr"
-      href="https://mis3085.github.io/docs-aceretech/fr/applications-9/crushed-pet-film-248/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="it"
-      href="https://mis3085.github.io/docs-aceretech/it/applications-9/crushed-pet-film-248/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="pt"
-      href="https://mis3085.github.io/docs-aceretech/pt/applications-9/crushed-pet-film-248/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://mis3085.github.io/docs-aceretech/ru/applications-9/crushed-pet-film-248/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ar"
-      href="https://mis3085.github.io/docs-aceretech/ar/applications-9/crushed-pet-film-248/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="hi"
-      href="https://mis3085.github.io/docs-aceretech/hi/applications-9/crushed-pet-film-248/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="https://mis3085.github.io/docs-aceretech/ja/applications-9/crushed-pet-film-248/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ko"
-      href="https://mis3085.github.io/docs-aceretech/ko/applications-9/crushed-pet-film-248/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="de"
-      href="https://mis3085.github.io/docs-aceretech/de/applications-9/crushed-pet-film-248/"
     />
   </url>
   <url>
@@ -1053,28 +743,13 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ru"
-      href="https://mis3085.github.io/docs-aceretech/ru/shop/recycling-pelletizing-system-4/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="ar"
       href="https://mis3085.github.io/docs-aceretech/ar/shop/recycling-pelletizing-system-4/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="hi"
-      href="https://mis3085.github.io/docs-aceretech/hi/shop/recycling-pelletizing-system-4/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="ja"
       href="https://mis3085.github.io/docs-aceretech/ja/shop/recycling-pelletizing-system-4/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ko"
-      href="https://mis3085.github.io/docs-aceretech/ko/shop/recycling-pelletizing-system-4/"
     />
     <xhtml:link
       rel="alternate"
@@ -1113,18 +788,8 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ru"
-      href="https://mis3085.github.io/docs-aceretech/ru/shop/washing-and-pelletizing-turn-key-solution-6/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="ar"
       href="https://mis3085.github.io/docs-aceretech/ar/shop/washing-and-pelletizing-turn-key-solution-6/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="hi"
-      href="https://mis3085.github.io/docs-aceretech/hi/shop/washing-and-pelletizing-turn-key-solution-6/"
     />
     <xhtml:link
       rel="alternate"
@@ -1133,73 +798,53 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ko"
-      href="https://mis3085.github.io/docs-aceretech/ko/shop/washing-and-pelletizing-turn-key-solution-6/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="de"
       href="https://mis3085.github.io/docs-aceretech/de/shop/washing-and-pelletizing-turn-key-solution-6/"
     />
   </url>
   <url>
-    <loc>https://mis3085.github.io/docs-aceretech/de/2/</loc>
+    <loc>https://mis3085.github.io/docs-aceretech/de/applications-9/service-advantages/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://mis3085.github.io/docs-aceretech/en/2/"
+      href="https://mis3085.github.io/docs-aceretech/en/applications-9/service-advantages/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="https://mis3085.github.io/docs-aceretech/es/2/"
+      href="https://mis3085.github.io/docs-aceretech/es/applications-9/service-advantages/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="https://mis3085.github.io/docs-aceretech/fr/2/"
+      href="https://mis3085.github.io/docs-aceretech/fr/applications-9/service-advantages/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://mis3085.github.io/docs-aceretech/it/2/"
+      href="https://mis3085.github.io/docs-aceretech/it/applications-9/service-advantages/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt"
-      href="https://mis3085.github.io/docs-aceretech/pt/2/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://mis3085.github.io/docs-aceretech/ru/2/"
+      href="https://mis3085.github.io/docs-aceretech/pt/applications-9/service-advantages/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ar"
-      href="https://mis3085.github.io/docs-aceretech/ar/2/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="hi"
-      href="https://mis3085.github.io/docs-aceretech/hi/2/"
+      href="https://mis3085.github.io/docs-aceretech/ar/applications-9/service-advantages/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://mis3085.github.io/docs-aceretech/ja/2/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ko"
-      href="https://mis3085.github.io/docs-aceretech/ko/2/"
+      href="https://mis3085.github.io/docs-aceretech/ja/applications-9/service-advantages/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="de"
-      href="https://mis3085.github.io/docs-aceretech/de/2/"
+      href="https://mis3085.github.io/docs-aceretech/de/applications-9/service-advantages/"
     />
   </url>
   <url>
@@ -1233,18 +878,8 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ru"
-      href="https://mis3085.github.io/docs-aceretech/ru/company-profile/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="ar"
       href="https://mis3085.github.io/docs-aceretech/ar/company-profile/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="hi"
-      href="https://mis3085.github.io/docs-aceretech/hi/company-profile/"
     />
     <xhtml:link
       rel="alternate"
@@ -1253,13 +888,53 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ko"
-      href="https://mis3085.github.io/docs-aceretech/ko/company-profile/"
+      hreflang="de"
+      href="https://mis3085.github.io/docs-aceretech/de/company-profile/"
+    />
+  </url>
+  <url>
+    <loc>https://mis3085.github.io/docs-aceretech/de/e-catalog/video/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://mis3085.github.io/docs-aceretech/en/e-catalog/video/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="https://mis3085.github.io/docs-aceretech/es/e-catalog/video/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="https://mis3085.github.io/docs-aceretech/fr/e-catalog/video/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="it"
+      href="https://mis3085.github.io/docs-aceretech/it/e-catalog/video/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="pt"
+      href="https://mis3085.github.io/docs-aceretech/pt/e-catalog/video/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ar"
+      href="https://mis3085.github.io/docs-aceretech/ar/e-catalog/video/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ja"
+      href="https://mis3085.github.io/docs-aceretech/ja/e-catalog/video/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="de"
-      href="https://mis3085.github.io/docs-aceretech/de/company-profile/"
+      href="https://mis3085.github.io/docs-aceretech/de/e-catalog/video/"
     />
   </url>
   <url>
@@ -1293,28 +968,13 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ru"
-      href="https://mis3085.github.io/docs-aceretech/ru/shop/crusher-shredder-5/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="ar"
       href="https://mis3085.github.io/docs-aceretech/ar/shop/crusher-shredder-5/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="hi"
-      href="https://mis3085.github.io/docs-aceretech/hi/shop/crusher-shredder-5/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="ja"
       href="https://mis3085.github.io/docs-aceretech/ja/shop/crusher-shredder-5/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ko"
-      href="https://mis3085.github.io/docs-aceretech/ko/shop/crusher-shredder-5/"
     />
     <xhtml:link
       rel="alternate"
