@@ -33,8 +33,18 @@
     />
     <xhtml:link
       rel="alternate"
+      hreflang="ru"
+      href="https://mis3085.github.io/docs-aceretech/ru/applications-9/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="ar"
       href="https://mis3085.github.io/docs-aceretech/ar/applications-9/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="hi"
+      href="https://mis3085.github.io/docs-aceretech/hi/applications-9/"
     />
     <xhtml:link
       rel="alternate"
@@ -83,13 +93,28 @@
     />
     <xhtml:link
       rel="alternate"
+      hreflang="ru"
+      href="https://mis3085.github.io/docs-aceretech/ru/company-profile/overseas-service-center/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="ar"
       href="https://mis3085.github.io/docs-aceretech/ar/company-profile/overseas-service-center/"
     />
     <xhtml:link
       rel="alternate"
+      hreflang="hi"
+      href="https://mis3085.github.io/docs-aceretech/hi/company-profile/overseas-service-center/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="ja"
       href="https://mis3085.github.io/docs-aceretech/ja/company-profile/overseas-service-center/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ko"
+      href="https://mis3085.github.io/docs-aceretech/ko/company-profile/overseas-service-center/"
     />
     <xhtml:link
       rel="alternate"
@@ -128,8 +153,18 @@
     />
     <xhtml:link
       rel="alternate"
+      hreflang="ru"
+      href="https://mis3085.github.io/docs-aceretech/ru/contactus/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="ar"
       href="https://mis3085.github.io/docs-aceretech/ar/contactus/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="hi"
+      href="https://mis3085.github.io/docs-aceretech/hi/contactus/"
     />
     <xhtml:link
       rel="alternate"
@@ -178,13 +213,28 @@
     />
     <xhtml:link
       rel="alternate"
+      hreflang="ru"
+      href="https://mis3085.github.io/docs-aceretech/ru/e-catalog/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="ar"
       href="https://mis3085.github.io/docs-aceretech/ar/e-catalog/"
     />
     <xhtml:link
       rel="alternate"
+      hreflang="hi"
+      href="https://mis3085.github.io/docs-aceretech/hi/e-catalog/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="ja"
       href="https://mis3085.github.io/docs-aceretech/ja/e-catalog/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ko"
+      href="https://mis3085.github.io/docs-aceretech/ko/e-catalog/"
     />
     <xhtml:link
       rel="alternate"
@@ -223,8 +273,23 @@
     />
     <xhtml:link
       rel="alternate"
+      hreflang="ru"
+      href="https://mis3085.github.io/docs-aceretech/ru/company-profile/esg/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="hi"
+      href="https://mis3085.github.io/docs-aceretech/hi/company-profile/esg/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="ja"
       href="https://mis3085.github.io/docs-aceretech/ja/company-profile/esg/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ko"
+      href="https://mis3085.github.io/docs-aceretech/ko/company-profile/esg/"
     />
     <xhtml:link
       rel="alternate"
@@ -268,13 +333,28 @@
     />
     <xhtml:link
       rel="alternate"
+      hreflang="ru"
+      href="https://mis3085.github.io/docs-aceretech/ru/e-catalog/faqs/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="ar"
       href="https://mis3085.github.io/docs-aceretech/ar/e-catalog/faqs/"
     />
     <xhtml:link
       rel="alternate"
+      hreflang="hi"
+      href="https://mis3085.github.io/docs-aceretech/hi/e-catalog/faqs/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="ja"
       href="https://mis3085.github.io/docs-aceretech/ja/e-catalog/faqs/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ko"
+      href="https://mis3085.github.io/docs-aceretech/ko/e-catalog/faqs/"
     />
     <xhtml:link
       rel="alternate"
@@ -313,13 +393,28 @@
     />
     <xhtml:link
       rel="alternate"
+      hreflang="ru"
+      href="https://mis3085.github.io/docs-aceretech/ru/applications-9/plant-layout/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="ar"
       href="https://mis3085.github.io/docs-aceretech/ar/applications-9/plant-layout/"
     />
     <xhtml:link
       rel="alternate"
+      hreflang="hi"
+      href="https://mis3085.github.io/docs-aceretech/hi/applications-9/plant-layout/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="ja"
       href="https://mis3085.github.io/docs-aceretech/ja/applications-9/plant-layout/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ko"
+      href="https://mis3085.github.io/docs-aceretech/ko/applications-9/plant-layout/"
     />
     <xhtml:link
       rel="alternate"
@@ -355,6 +450,21 @@
       rel="alternate"
       hreflang="pt"
       href="https://mis3085.github.io/docs-aceretech/pt/shop/pet-recycling-line-7/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="https://mis3085.github.io/docs-aceretech/ru/shop/pet-recycling-line-7/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="hi"
+      href="https://mis3085.github.io/docs-aceretech/hi/shop/pet-recycling-line-7/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ko"
+      href="https://mis3085.github.io/docs-aceretech/ko/shop/pet-recycling-line-7/"
     />
     <xhtml:link
       rel="alternate"
@@ -403,13 +513,28 @@
     />
     <xhtml:link
       rel="alternate"
+      hreflang="ru"
+      href="https://mis3085.github.io/docs-aceretech/ru/shop/auxiliary-machine-for-plastic-recycling-10/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="ar"
       href="https://mis3085.github.io/docs-aceretech/ar/shop/auxiliary-machine-for-plastic-recycling-10/"
     />
     <xhtml:link
       rel="alternate"
+      hreflang="hi"
+      href="https://mis3085.github.io/docs-aceretech/hi/shop/auxiliary-machine-for-plastic-recycling-10/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="ja"
       href="https://mis3085.github.io/docs-aceretech/ja/shop/auxiliary-machine-for-plastic-recycling-10/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ko"
+      href="https://mis3085.github.io/docs-aceretech/ko/shop/auxiliary-machine-for-plastic-recycling-10/"
     />
     <xhtml:link
       rel="alternate"
@@ -448,13 +573,28 @@
     />
     <xhtml:link
       rel="alternate"
+      hreflang="ru"
+      href="https://mis3085.github.io/docs-aceretech/ru/e-catalog/2/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="ar"
       href="https://mis3085.github.io/docs-aceretech/ar/e-catalog/2/"
     />
     <xhtml:link
       rel="alternate"
+      hreflang="hi"
+      href="https://mis3085.github.io/docs-aceretech/hi/e-catalog/2/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="ja"
       href="https://mis3085.github.io/docs-aceretech/ja/e-catalog/2/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ko"
+      href="https://mis3085.github.io/docs-aceretech/ko/e-catalog/2/"
     />
     <xhtml:link
       rel="alternate"
@@ -493,8 +633,18 @@
     />
     <xhtml:link
       rel="alternate"
+      hreflang="ru"
+      href="https://mis3085.github.io/docs-aceretech/ru/applications-9/custom-process/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="ar"
       href="https://mis3085.github.io/docs-aceretech/ar/applications-9/custom-process/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="hi"
+      href="https://mis3085.github.io/docs-aceretech/hi/applications-9/custom-process/"
     />
     <xhtml:link
       rel="alternate"
@@ -543,13 +693,28 @@
     />
     <xhtml:link
       rel="alternate"
+      hreflang="ru"
+      href="https://mis3085.github.io/docs-aceretech/ru/shop/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="ar"
       href="https://mis3085.github.io/docs-aceretech/ar/shop/"
     />
     <xhtml:link
       rel="alternate"
+      hreflang="hi"
+      href="https://mis3085.github.io/docs-aceretech/hi/shop/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="ja"
       href="https://mis3085.github.io/docs-aceretech/ja/shop/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ko"
+      href="https://mis3085.github.io/docs-aceretech/ko/shop/"
     />
     <xhtml:link
       rel="alternate"
@@ -588,13 +753,28 @@
     />
     <xhtml:link
       rel="alternate"
+      hreflang="ru"
+      href="https://mis3085.github.io/docs-aceretech/ru/company-profile/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="ar"
       href="https://mis3085.github.io/docs-aceretech/ar/company-profile/"
     />
     <xhtml:link
       rel="alternate"
+      hreflang="hi"
+      href="https://mis3085.github.io/docs-aceretech/hi/company-profile/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="ja"
       href="https://mis3085.github.io/docs-aceretech/ja/company-profile/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ko"
+      href="https://mis3085.github.io/docs-aceretech/ko/company-profile/"
     />
     <xhtml:link
       rel="alternate"
@@ -633,8 +813,18 @@
     />
     <xhtml:link
       rel="alternate"
+      hreflang="ru"
+      href="https://mis3085.github.io/docs-aceretech/ru/applications-9/customer-achievements-7/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="ar"
       href="https://mis3085.github.io/docs-aceretech/ar/applications-9/customer-achievements-7/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="hi"
+      href="https://mis3085.github.io/docs-aceretech/hi/applications-9/customer-achievements-7/"
     />
     <xhtml:link
       rel="alternate"
@@ -683,13 +873,28 @@
     />
     <xhtml:link
       rel="alternate"
+      hreflang="ru"
+      href="https://mis3085.github.io/docs-aceretech/ru/shop/recycling-pelletizing-system-4/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="ar"
       href="https://mis3085.github.io/docs-aceretech/ar/shop/recycling-pelletizing-system-4/"
     />
     <xhtml:link
       rel="alternate"
+      hreflang="hi"
+      href="https://mis3085.github.io/docs-aceretech/hi/shop/recycling-pelletizing-system-4/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="ja"
       href="https://mis3085.github.io/docs-aceretech/ja/shop/recycling-pelletizing-system-4/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ko"
+      href="https://mis3085.github.io/docs-aceretech/ko/shop/recycling-pelletizing-system-4/"
     />
     <xhtml:link
       rel="alternate"
@@ -728,13 +933,28 @@
     />
     <xhtml:link
       rel="alternate"
+      hreflang="ru"
+      href="https://mis3085.github.io/docs-aceretech/ru/shop/washing-and-pelletizing-turn-key-solution-6/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="ar"
       href="https://mis3085.github.io/docs-aceretech/ar/shop/washing-and-pelletizing-turn-key-solution-6/"
     />
     <xhtml:link
       rel="alternate"
+      hreflang="hi"
+      href="https://mis3085.github.io/docs-aceretech/hi/shop/washing-and-pelletizing-turn-key-solution-6/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="ja"
       href="https://mis3085.github.io/docs-aceretech/ja/shop/washing-and-pelletizing-turn-key-solution-6/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ko"
+      href="https://mis3085.github.io/docs-aceretech/ko/shop/washing-and-pelletizing-turn-key-solution-6/"
     />
     <xhtml:link
       rel="alternate"
@@ -778,13 +998,13 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="hi"
-      href="https://mis3085.github.io/docs-aceretech/hi/"
+      hreflang="ar"
+      href="https://mis3085.github.io/docs-aceretech/ar/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ar"
-      href="https://mis3085.github.io/docs-aceretech/ar/"
+      hreflang="hi"
+      href="https://mis3085.github.io/docs-aceretech/hi/"
     />
     <xhtml:link
       rel="alternate"
@@ -833,13 +1053,28 @@
     />
     <xhtml:link
       rel="alternate"
+      hreflang="ru"
+      href="https://mis3085.github.io/docs-aceretech/ru/shop/crusher-shredder-5/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="ar"
       href="https://mis3085.github.io/docs-aceretech/ar/shop/crusher-shredder-5/"
     />
     <xhtml:link
       rel="alternate"
+      hreflang="hi"
+      href="https://mis3085.github.io/docs-aceretech/hi/shop/crusher-shredder-5/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="ja"
       href="https://mis3085.github.io/docs-aceretech/ja/shop/crusher-shredder-5/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ko"
+      href="https://mis3085.github.io/docs-aceretech/ko/shop/crusher-shredder-5/"
     />
     <xhtml:link
       rel="alternate"
@@ -878,13 +1113,28 @@
     />
     <xhtml:link
       rel="alternate"
+      hreflang="ru"
+      href="https://mis3085.github.io/docs-aceretech/ru/applications-9/service-advantages/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="ar"
       href="https://mis3085.github.io/docs-aceretech/ar/applications-9/service-advantages/"
     />
     <xhtml:link
       rel="alternate"
+      hreflang="hi"
+      href="https://mis3085.github.io/docs-aceretech/hi/applications-9/service-advantages/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="ja"
       href="https://mis3085.github.io/docs-aceretech/ja/applications-9/service-advantages/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ko"
+      href="https://mis3085.github.io/docs-aceretech/ko/applications-9/service-advantages/"
     />
     <xhtml:link
       rel="alternate"
@@ -923,13 +1173,28 @@
     />
     <xhtml:link
       rel="alternate"
+      hreflang="ru"
+      href="https://mis3085.github.io/docs-aceretech/ru/company-profile/quality-advantages/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="ar"
       href="https://mis3085.github.io/docs-aceretech/ar/company-profile/quality-advantages/"
     />
     <xhtml:link
       rel="alternate"
+      hreflang="hi"
+      href="https://mis3085.github.io/docs-aceretech/hi/company-profile/quality-advantages/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="ja"
       href="https://mis3085.github.io/docs-aceretech/ja/company-profile/quality-advantages/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ko"
+      href="https://mis3085.github.io/docs-aceretech/ko/company-profile/quality-advantages/"
     />
     <xhtml:link
       rel="alternate"
@@ -968,13 +1233,28 @@
     />
     <xhtml:link
       rel="alternate"
+      hreflang="ru"
+      href="https://mis3085.github.io/docs-aceretech/ru/e-catalog/video/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="ar"
       href="https://mis3085.github.io/docs-aceretech/ar/e-catalog/video/"
     />
     <xhtml:link
       rel="alternate"
+      hreflang="hi"
+      href="https://mis3085.github.io/docs-aceretech/hi/e-catalog/video/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="ja"
       href="https://mis3085.github.io/docs-aceretech/ja/e-catalog/video/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ko"
+      href="https://mis3085.github.io/docs-aceretech/ko/e-catalog/video/"
     />
     <xhtml:link
       rel="alternate"
